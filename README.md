@@ -9,7 +9,7 @@
 <p align="left">
 <a href="https://twitter.com/@iammanndeep" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@iammanndeep" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mandeep-kumar-4b91751b8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mandeep-kumar-4b91751b8/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=100005625017994" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100005625017994" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/profile.php?id=100005625017994" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=100005625017994" height="30" width="40" /></a>
 <a href="https://instagram.com/mandeep_patel_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mandeep_patel_" height="30" width="40" /></a>
 </p>
 
