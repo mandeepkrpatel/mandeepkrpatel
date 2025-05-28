@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mandeep Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 💬 Ask me about **React, JavaScript,Java,and Python.**
+- 💬 Ask me about **React, JavaScript,REACT-NATIVE.**
 
 - 📫 How to reach me **mandeepkr.patel123@gmail.com**
 
